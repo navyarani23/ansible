@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: Dev
   tasks:
    - name: Install add-apt-repostory
      become: yes
